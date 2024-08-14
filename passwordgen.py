@@ -1,7 +1,8 @@
+#using streamlit
 import streamlit as st
 import random
 
-# Your password generation code goes here
+# Your password generation code goes here 
 
 # Define the Streamlit app
 def main():
